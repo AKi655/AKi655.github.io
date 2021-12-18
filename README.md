@@ -1,1 +1,2 @@
-# aki655.github.io
+# 存放网站图片的地方
+基于PicGo
